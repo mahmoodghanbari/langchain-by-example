@@ -1,0 +1,26 @@
+{
+  "name": "langchain-by-example",
+  "version": "1.0.0",
+  "description": "This repository is a step-by-step learning journey for LangChain (JavaScript).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmoodghanbari/langchain-by-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mahmoodghanbari/langchain-by-example/issues"
+  },
+  "homepage": "https://github.com/mahmoodghanbari/langchain-by-example#readme",
+  "dependencies": {
+    "@langchain/openai": "^1.5.1",
+    "dotenv": "^17.4.2",
+    "langchain": "^1.5.0"
+  }
+}
