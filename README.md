@@ -1,16 +1,9 @@
-# LangChain by Example
+# Hello LangChain
 
-This repository is a step-by-step learning journey for LangChain (JavaScript).
+First step: install LangChain and send your first request to an LLM.
 
-## Learning Style
-
-Each lesson lives in a separate Git branch.
-
-Start from:
-
-- 01-hello-langchain → First LangChain request
-
-## Branch Navigation
-
-```bash
-git checkout 01-hello-langchain
+## What you learn
+- Installing LangChain
+- Creating OpenAI model
+- Sending first prompt
+- Receiving response
