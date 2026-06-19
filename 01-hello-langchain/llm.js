@@ -8,6 +8,9 @@ const model = new ChatOpenAI({
     temperature : 0.2,
     maxTokens : 1000,
     verbose : true,
+    configuration: {
+    baseURL: "https://api.gapgpt.app/v1",
+  },
 });
 
 const response = await model.invoke("hello langchain");
