@@ -11,13 +11,10 @@ The goal of this repository is to provide hands-on examples for developers who w
 Topics covered include:
 
 * LangChain Fundamentals
-* Prompts
-* Models
-* Output Parsers
+* Prompts Templates
 * Chains
+* Output Parsers
 * Retrieval (RAG)
-* Tools
-* Agents
 * Memory
 * And more...
 
